@@ -11,6 +11,7 @@ Download [MultiMC](https://multimc.org/) launcher and unpack launcher files into
 Run the MultiMC.exe, it will guide you through first time launch setup.
 
 On Java decision step point the launcher to just installed OpenJDK version. Default path for it would be `C:\Program Files\AdoptOpenJDK\jdk-8.0.212.04-openj9\bin\javaw.exe`.
+Please point to javaw.exe manually, autodetect can choose wrong path.
 
 Login into your Minecraft/Microsoft account by going to `Profiles` -> `Manage Accounts` -> `Add Microsoft` and following instructions. (It will ask you to follow link and input code and credentials. Loading bar is fake.)
 
