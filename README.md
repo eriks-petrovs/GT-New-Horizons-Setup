@@ -35,7 +35,7 @@ Check `Memory` checkbox and set minimum and maximum memory allocation depending 
 >5 GB = 5120\
 >6 GB = 6144\
 >7 GB = 7168\
->8 GB = 8196
+>8 GB = 8192
 
 Check `Java arguments` checkbox and insert the following options into text area.
 ```
