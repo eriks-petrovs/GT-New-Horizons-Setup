@@ -61,7 +61,7 @@ Optifine can cause glitches on some systems but usually it's wrong settings if y
 Download [OptiFine mod 1.7.10 HD U E7](https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar).
 Click `View mods` -> `Add` -> Select downloaded optifine mod file (`OptiFine_1.7.10_HD_U_E7.jar`)
 
-(Optional) Together with OptiFine loading screen with progress bar makes the game load slower. So if you prefer faster load to fancy loading screen diselect checkbox `Better Loading Screen GTNH` in mod list.
+(Optional) Together with OptiFine loading screen with progress bar makes the game load slower. So if you prefer faster load to fancy loading screen deselect checkbox `Better Loading Screen GTNH` in mod list.
 
 When the game is launched you will have to modify some graphics settings. Go to menu -> `Options` -> `Video settings`:
 ```
