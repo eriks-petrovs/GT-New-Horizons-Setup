@@ -89,3 +89,4 @@ You will need to have OptiFine installed and running.
 
 ## Useful links
 [Guide to optimizations for Low End PCs](https://gtnh.miraheze.org/wiki/Low_End_PCs) Many of them already included in this guide.
+[Server setup](https://gtnh.miraheze.org/wiki/Server_Setup)
