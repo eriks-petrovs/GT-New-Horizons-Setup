@@ -55,7 +55,7 @@ Launch the game! It will take a few minutes to launch the game (3 to 5 minutes f
 
 (Be warned that it plays LOUD music on main screen)
 
-## More optimizations
+## More optimizations (optional, recommended)
 
 Optifine can cause glitches on some systems but usually it's wrong settings if you get any glitches or crashes. So I do recommend to use this, contact me if you have any issues with it.
 
@@ -81,7 +81,21 @@ Performance:
 Check if your PC uses the right GPU. Mine uses Integrated Graphics Card instead of Nvidia one by default which lowers performance significantly.
 The GPU used can be viewed by pressing F3.
 
-## Hate high FPS? C'mon install shaders!
+## Unlimited map edition (optional, recommended)
+
+>Journeymap shipped with the mod serverpack uses the Fairplay version. This prevents players from seeing into caves, and other entities such as monsters or players.
+
+_GTNH wiki [about JourneyMap fairplay](https://gtnh.miraheze.org/wiki/Journeymap_Fairplay)_
+
+Steps to use unlimited edition:
+
+1. Remove JourneyMap from your client mods (`View Mods` -> Right click on `JourneyMap` -> `Remove`)
+
+2. Download [JourneyMap 5.1.4p2 (Hotfix Patch 2) Unlimited Edition for Minecraft Forge 1.7.10](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2367915)
+
+3. Place the file in your client mods directory (`View Mods` -> `Add`)
+
+## Hate high FPS? C'mon install shaders! (optional)
 
 In case you have a billion dollar graphics card you can install some shaders to make Minecraft look nice. Here is a [guide](https://gtnh.miraheze.org/wiki/Shaders).
 You will need to have OptiFine installed and running. 
